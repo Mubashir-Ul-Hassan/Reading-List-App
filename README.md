@@ -24,7 +24,7 @@ python main.py
 
 ## Sample output
 
-![App Demo](screenshots/screenshot.png)
+![App Demo](screenshot.png)
 
 ```
 === Reading List ===
